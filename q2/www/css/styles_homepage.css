@@ -1,0 +1,46 @@
+/* Importing the fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+/*This is the style for the main home page*/
+
+a {
+  color: white ;
+}
+body {
+  font-family: Ubuntu;
+}
+
+h1 {
+  color: #f7f7f7;
+   text-shadow: 2px 2px 4px #000000 ;
+   text-align:center ;
+   font-size: 60px ;
+}
+
+p {
+  color: #dfe3ee ;
+}
+
+h2 {
+  color: #dfe3ee ;
+  text-align:center;
+}
+
+h3 {
+  color: #dfe3ee ;
+  text-align:center ;
+}
+body {
+background-color: #3b5998;
+  padding: 3em
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #8b9dc3 ;
+   color: white ;
+   text-align: center;
+}

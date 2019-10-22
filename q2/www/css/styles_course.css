@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+
+h1 {
+  color: #8b9dc3;
+     text-shadow: 2px 2px 4px grey ;
+     text-align:center ;
+}
+
+p {
+  color: #3b5998 ;
+  text-align:center ;
+}
+
+h2 {
+  color: #3b5998 ;
+  text-align:center ;
+}
+body {
+background-color: #dfe3ee;
+padding: 3em
+}
+body {
+font-family: Ubuntu;
+}
+.footer {
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color: #8b9dc3 ;
+ color: white ;
+ text-align: center;
